@@ -1,1 +1,1 @@
-# hcp-app-hospital-services
+# InteropEHRate HCP App Hospital Services
